@@ -80,8 +80,6 @@ public void testGetOrder() throws Exception {
                 0               // Other field
             )
         ));
-
-    // Add the rest of the test logic here...
 }
 
 
