@@ -69,4 +69,4 @@ jobs:
 
           push: true
 
-          tags: ghcr.io/yourGitHubUsername/tos:latest
+          tags: ghcr.io/kikegda/tos:latest
